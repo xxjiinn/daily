@@ -17,7 +17,7 @@ HelloController {
     }
 
     @GetMapping("hi")
-    public String save(){
+    public String saves(){
         return "hello.html";
     }
 }
