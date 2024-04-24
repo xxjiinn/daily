@@ -18,6 +18,6 @@ HelloController {
 
     @GetMapping("hi")
     public String saves(){
-        return "hello.html";
+        return "hello.html!!";
     }
 }
